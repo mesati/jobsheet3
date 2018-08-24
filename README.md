@@ -23,4 +23,4 @@ hasil Latihan 6<br>
 D.	Tugas Praktikum <br>
 Buatlah sebuah program dengan konsep Inheritance tentang Sekolah (Perpustakaan, Guru, Karyawan, Matpel atau yang lain pilih salah satu) buat subclasss yang memiliki subclass.!
 Sintaks dari program tersebut!<br>
-![alt text](https://github.com/mesati/jobsheet3/blob/master/praktek.PNG) <br>
+![alt text](https://github.com/mesati/jobsheet3/blob/master/perpus.PNG) <br>
